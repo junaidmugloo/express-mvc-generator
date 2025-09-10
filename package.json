@@ -1,5 +1,5 @@
 {
-  "name": "express-mvc-generator",
+  "name": "express-mvc-generator-v1",
   "version": "2.2.5",
   "description": "A Laravel-style MVC generator for Express.js projects with artisan-like CLI commands.",
   "main": "index.js",
