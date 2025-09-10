@@ -28,6 +28,8 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
+    "express": "^5.1.0",
+    "express-mvc-generator-v1": "^2.2.5",
     "fs-extra": "^11.3.1"
   }
 }
