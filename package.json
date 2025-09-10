@@ -1,0 +1,23 @@
+{
+  "name": "express-mvc-generator",
+  "version": "1.0.0",
+  "description": "A MVC generator for Express.js",
+  "main": "index.js",
+  "bin": {
+    "express-mvc-generator": "./bin/cli.js"
+  },
+  "keywords": [
+    "express",
+    "mvc",
+    "generator",
+    "cli",
+    "laravel"
+  ],
+  "author": "junaid-mugloo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.3.1"
+  }
+}
