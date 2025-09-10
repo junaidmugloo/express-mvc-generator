@@ -1,7 +1,7 @@
 {
   "name": "express-mvc-generator",
   "version": "1.1.2",
-  "description": "A MVC generator for Express.js",
+  "description": "A Laravel-style MVC generator for Express.js projects with artisan-like CLI commands.",
   "main": "index.js",
   "bin": {
     "express-mvc-generator": "./bin/cli.js"
@@ -11,10 +11,20 @@
     "mvc",
     "generator",
     "cli",
-    "laravel"
+    "laravel",
+    "scaffold",
+    "boilerplate"
   ],
-  "author": "junaid-mugloo",
+  "author": "Junaid Mugloo <junaid@example.com>",
   "license": "MIT",
+  "homepage": "https://github.com/junaid-mugloo/express-mvc-generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junaid-mugloo/express-mvc-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/junaid-mugloo/express-mvc-generator/issues"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
